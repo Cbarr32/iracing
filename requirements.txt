@@ -1,0 +1,5 @@
+pyirsdk
+pandas
+numpy
+streamlit
+plotly
